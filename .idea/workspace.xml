@@ -2,79 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d6ff8b-42bf-454f-9671-2928cabda576" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/cssxfire.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-overrides.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/encryption.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/avatarSelector/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/avatarSelector/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/chat/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/chat/store/actionCreators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/chat/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/chat/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/chat/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/chat/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/commonlist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/commonlist/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/logo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/logo/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/msg/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/msg/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/navlinkbar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/navlinkbar/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/personal/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/personal/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/validateRoute/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myReduxDemo/mini_redux_custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/store/actionCreators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/style.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/store/actionCreators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/store/actionCreators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/style.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/store/actionCreators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/register/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/register/store/actionCreators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/register/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/register/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/register/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/register/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/globalStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/registerServiceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/iconfont/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/iconfont/iconfont.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/iconfont/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/iconfont/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/iconfont/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/img/boss-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/img/boss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/img/genius-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/img/genius.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/img/msg-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/img/msg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/img/personal-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/img/personal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/avatarSelector/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/avatarSelector/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/chat/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/chat/store/actionCreators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/chat/store/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/chat/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/chat/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/chat/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/commonlist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/commonlist/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/logo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/logo/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/msg/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/msg/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/navlinkbar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/navlinkbar/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/personal/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/personal/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/component/validateRoute/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/myReduxDemo/mini_redux_custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/bossinfo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/bossinfo/store/actionCreators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/bossinfo/store/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/bossinfo/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/bossinfo/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/bossinfo/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/dashboard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/dashboard/store/actionCreators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/dashboard/store/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/dashboard/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/dashboard/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/geniusinfo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/geniusinfo/store/actionCreators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/geniusinfo/store/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/geniusinfo/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/geniusinfo/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/geniusinfo/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/login/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/login/store/actionCreators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/login/store/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/login/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/login/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/login/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/register/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/register/store/actionCreators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/register/store/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/register/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/register/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/pages/register/style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/store/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/style/globalStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src copy/utils/utils.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -90,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="995">
+            <state relative-caret-position="725">
               <caret line="38" column="18" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="18" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
@@ -129,11 +129,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="170" column="60" lean-forward="true" selection-start-line="170" selection-start-column="60" selection-end-line="170" selection-end-column="60" />
+            <state relative-caret-position="3299">
+              <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -187,7 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pages/login/store/actionTypes.js" />
         <option value="$PROJECT_DIR$/src/pages/bossinfo/style.less" />
         <option value="$PROJECT_DIR$/src/component/avatarSelector/style.js" />
         <option value="$PROJECT_DIR$/src/pages/register/store/actionTypes.js" />
@@ -238,12 +260,15 @@
         <option value="$PROJECT_DIR$/server/server.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="3360" />
-    <option name="height" value="1417" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1680" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1394" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -253,8 +278,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RecruitmentApp " type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecruitmentApp " type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecruitmentApp " type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecruitmentApp " type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,17 +425,17 @@
       <workItem from="1543066428943" duration="18000" />
       <workItem from="1553035325816" duration="1345000" />
       <workItem from="1553114331250" duration="1646000" />
+      <workItem from="1553161178976" duration="579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165762000" />
+    <option name="totallyTimeSpent" value="166341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="3360" height="1417" extended-state="0" />
-    <editor active="true" />
+    <frame x="1680" y="23" width="1680" height="1394" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23733003" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23733003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -410,7 +450,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="RNConsole" order="9" weight="0.32955974" />
       <window_info anchor="bottom" id="CSS-X-Fire" order="10" weight="0.32957393" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1431718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31012657" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3295838" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -465,13 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="76" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -692,6 +725,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2871">
+          <caret line="99" column="6" lean-forward="true" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-overrides.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/component/chat/store/reducer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="899">
@@ -716,34 +773,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2871">
-          <caret line="99" column="6" lean-forward="true" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-overrides.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="995">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="170" column="60" lean-forward="true" selection-start-line="170" selection-start-column="60" selection-end-line="170" selection-end-column="60" />
+        <state relative-caret-position="3299">
+          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>

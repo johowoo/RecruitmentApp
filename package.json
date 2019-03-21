@@ -74,8 +74,7 @@
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test --env=jsdom",
-    "server":"nodemon server/server.js",
-    "deploy": "aws s3 cp build/ s3://johowoo.com --recursive"
+    "server":"nodemon server/server.js"
   },
   "jest": {
     "collectCoverageFrom": [

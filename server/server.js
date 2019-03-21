@@ -9,8 +9,8 @@ const path =require('path');
 //cooperate with express
 const server=require('http').Server(app);
 const io=require('socket.io')(server);
-
-// Chat.remove({"create_time": 1537366448826},(err,doc)=> {
+//
+// Chat.remove({},(err,doc)=> {
 //     console.log(doc);
 // })
 io.on('connection',function(socket){//socket is the current connection,while io is the global

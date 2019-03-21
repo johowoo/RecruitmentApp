@@ -8,9 +8,9 @@ const Chat = model.getModel('chat');
 const _filter = {'pwd': 0, '__v': 0}
 // const mongoose = require('mongoose');
 
-User.remove({user:'jeremy'},function(err,doc){
-    console.log(doc);
-})
+// User.remove({user:'123'},function(err,doc){
+//     console.log(doc);
+// })
 Router.get('/list', function (req, res) {
     const {type} = req.query;
     User.find({type}, function (err, doc) {

@@ -2,11 +2,11 @@ language: node_js
 node_js:
   - '8'
 cache:
-  yarn: true
+  npm: true
   directories:
     - node_modules
-script:
-  - yarn test
+#script:
+#  - yarn test
 before_deploy:
   - yarn global add travis-ci-cloudfront-invalidation
   - yarn run build

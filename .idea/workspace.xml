@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d6ff8b-42bf-454f-9671-2928cabda576" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -70,8 +69,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="116">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -105,8 +113,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>localstora</find>
-      <find>sess</find>
       <find>console</find>
       <find>val</find>
       <find>value</find>
@@ -135,6 +141,8 @@
       <find>rule</find>
       <find>resize</find>
       <find>modi</find>
+      <find>yarn</find>
+      <find>rc-utils</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -360,18 +368,18 @@
       <workItem from="1553114331250" duration="1646000" />
       <workItem from="1553161178976" duration="1117000" />
       <workItem from="1553162313929" duration="874000" />
-      <workItem from="1553199897105" duration="716000" />
+      <workItem from="1553199897105" duration="976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168469000" />
+    <option name="totallyTimeSpent" value="168729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="286" y="57" width="1680" height="1394" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24598269" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24598269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -386,7 +394,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32990506" />
       <window_info anchor="bottom" id="RNConsole" order="9" weight="0.32955974" />
       <window_info anchor="bottom" id="CSS-X-Fire" order="10" weight="0.32957393" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31012657" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31012657" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3295838" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -661,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2871">
-          <caret line="99" column="6" lean-forward="true" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config-overrides.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -730,10 +731,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="116">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>

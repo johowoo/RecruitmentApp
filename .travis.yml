@@ -1,18 +1,19 @@
 language: node_js
 node_js:
   - '8'
-before_install:
-  - npm i -g npm@6.4.1
-cache: npm
+#before_install:
+#  - npm i -g npm@6.4.1
+
+cache:
 #  yarn: false
-#  npm: true
-#  directories:
-#    - node_modules
+  npm: true
+  directories:
+    - node_modules
 
 script:
   - npm run test
 before_deploy:
-  - npm global add travis-ci-cloudfront-invalidation
+  - npm install  -g travis-ci-cloudfront-invalidation
   - npm run build
 deploy:
   provider: s3

@@ -19,6 +19,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.DS_Store
-        src/.DS_Store
-        src/assets/.DS_Store src/assets/iconfont/.DS_Store src/assets/img/.DS_Store yarn-error.log

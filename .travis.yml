@@ -5,11 +5,11 @@ cache:
   npm: true
   directories:
     - node_modules
-#script:
-#  - yarn test
+script:
+  - npm run test
 before_deploy:
-  - yarn global add travis-ci-cloudfront-invalidation
-  - yarn run build
+  - npm global add travis-ci-cloudfront-invalidation
+  - npm run build
 deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY_ID

@@ -2,51 +2,248 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d6ff8b-42bf-454f-9671-2928cabda576" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cssxfire.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-overrides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/encryption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/avatarSelector/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/avatarSelector/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/chat/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/chat/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/chat/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/chat/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/chat/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/chat/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/commonlist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/commonlist/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/logo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/logo/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/msg/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/msg/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/navlinkbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/navlinkbar/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/personal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/personal/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/validateRoute/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myReduxDemo/mini_redux_custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/bossinfo/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/dashboard/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/geniusinfo/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/register/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/register/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/register/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/register/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/register/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/register/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/globalStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="995">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/chat/store/reducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="899">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" selection-start-line="12" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/user.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="170" column="60" lean-forward="true" selection-start-line="170" selection-start-column="60" selection-end-line="170" selection-end-column="60" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>localstora</find>
+      <find>sess</find>
+      <find>console</find>
+      <find>val</find>
+      <find>value</find>
+      <find>d</find>
+      <find>date</find>
+      <find>return</find>
+      <find>svg</find>
+      <find>console.log</find>
+      <find>console.</find>
+      <find>update</find>
+      <find>recvMsgRequest</find>
+      <find>targetAVA</find>
+      <find>chat</find>
+      <find>es</find>
+      <find>script</find>
+      <find>title</find>
+      <find>read</find>
+      <find>a</find>
+      <find>key=</find>
+      <find>key</find>
+      <find>map</find>
+      <find>computedMatch</find>
+      <find>c</find>
+      <find>localStorage</find>
+      <find>==</find>
+      <find>rule</find>
+      <find>resize</find>
+      <find>modi</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/login/store/actionTypes.js" />
+        <option value="$PROJECT_DIR$/src/pages/bossinfo/style.less" />
+        <option value="$PROJECT_DIR$/src/component/avatarSelector/style.js" />
+        <option value="$PROJECT_DIR$/src/pages/register/store/actionTypes.js" />
+        <option value="$PROJECT_DIR$/src/pages/bossinfo/store/actionTypes.js" />
+        <option value="$PROJECT_DIR$/src/pages/bossinfo/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/pages/geniusinfo/store/reducer.js" />
+        <option value="$PROJECT_DIR$/../averageScore.js" />
+        <option value="$PROJECT_DIR$/src/pages/dashboard/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/component/navlinkbar/style.js" />
+        <option value="$PROJECT_DIR$/src/component/avatarSelector/index.js" />
+        <option value="$PROJECT_DIR$/src/component/boss/style.js" />
+        <option value="$PROJECT_DIR$/src/component/boss/index.js" />
+        <option value="$PROJECT_DIR$/src/component/joblist/index.js" />
+        <option value="$PROJECT_DIR$/src/component/commonlist/style.js" />
+        <option value="$PROJECT_DIR$/src/component/personal/style.js" />
+        <option value="$PROJECT_DIR$/src/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/component/navlinkbar/index.js" />
+        <option value="$PROJECT_DIR$/src/utils/utils.js" />
+        <option value="$PROJECT_DIR$/src copy/pages/register/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/pages/login/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src copy/pages/login/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src copy/pages/dashboard/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/register/store/reducer.js" />
+        <option value="$PROJECT_DIR$/server/model.js" />
+        <option value="$PROJECT_DIR$/src/component/chat/store/actionTypes.js" />
+        <option value="$PROJECT_DIR$/src/utils/mini_redux_custom.js" />
+        <option value="$PROJECT_DIR$/src/pages/register/index.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/style/globalStyle.js" />
+        <option value="$PROJECT_DIR$/src/pages/dashboard/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/component/msg/index.js" />
+        <option value="$PROJECT_DIR$/src/component/commonlist/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/login/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/component/validateRoute/index.js" />
+        <option value="$PROJECT_DIR$/src/component/chat/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/component/chat/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/pages/register/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/component/personal/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/bossinfo/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/pages/geniusinfo/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/src/assets/iconfont/iconfont.js" />
+        <option value="$PROJECT_DIR$/src/pages/login/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/geniusinfo/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/bossinfo/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/dashboard/index.js" />
+        <option value="$PROJECT_DIR$/src/component/chat/index.js" />
+        <option value="$PROJECT_DIR$/server/user.js" />
+        <option value="$PROJECT_DIR$/server/server.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-    </packageJsonPaths>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="642" />
-    <option name="y" value="116" />
-    <option name="width" value="1278" />
-    <option name="height" value="892" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="3360" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,25 +253,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="RecruitmentApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RecruitmentApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/component" />
+      <recent name="$PROJECT_DIR$/src/component/chat" />
+      <recent name="$PROJECT_DIR$/src/component/boss" />
+      <recent name="$PROJECT_DIR$/src/pages/dashboard" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/myReduxDemo" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -88,6 +291,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="averageScore.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="averageScore.js" working-dir="$PROJECT_DIR$/..">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.averageScore.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -98,49 +311,441 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532007285057</updated>
-      <workItem from="1532007286347" duration="265000" />
+      <workItem from="1532007286347" duration="3653000" />
+      <workItem from="1532061331543" duration="211000" />
+      <workItem from="1532069187265" duration="190000" />
+      <workItem from="1532070539938" duration="13432000" />
+      <workItem from="1532141189025" duration="385000" />
+      <workItem from="1532161001007" duration="17868000" />
+      <workItem from="1532224999974" duration="134000" />
+      <workItem from="1532244024122" duration="82000" />
+      <workItem from="1532262893281" duration="9373000" />
+      <workItem from="1532308732906" duration="199000" />
+      <workItem from="1532336348744" duration="10605000" />
+      <workItem from="1532396999895" duration="436000" />
+      <workItem from="1532411720211" duration="13705000" />
+      <workItem from="1532481985817" duration="192000" />
+      <workItem from="1532508649364" duration="160000" />
+      <workItem from="1532569755641" duration="7892000" />
+      <workItem from="1532652442969" duration="91000" />
+      <workItem from="1532681055036" duration="6484000" />
+      <workItem from="1532740807813" duration="588000" />
+      <workItem from="1532763144551" duration="120000" />
+      <workItem from="1532763338169" duration="53000" />
+      <workItem from="1532763489787" duration="75000" />
+      <workItem from="1532783211840" duration="393000" />
+      <workItem from="1532825770314" duration="111000" />
+      <workItem from="1532844330447" duration="311000" />
+      <workItem from="1532866791755" duration="2851000" />
+      <workItem from="1532912737255" duration="100000" />
+      <workItem from="1532927013224" duration="185000" />
+      <workItem from="1532942418010" duration="5503000" />
+      <workItem from="1532999735300" duration="158000" />
+      <workItem from="1533016755321" duration="8008000" />
+      <workItem from="1533086242016" duration="79000" />
+      <workItem from="1533117970461" duration="7957000" />
+      <workItem from="1533171625231" duration="85000" />
+      <workItem from="1533190459784" duration="6078000" />
+      <workItem from="1533257550997" duration="134000" />
+      <workItem from="1533281484977" duration="8005000" />
+      <workItem from="1533310229260" duration="338000" />
+      <workItem from="1533344188699" duration="162000" />
+      <workItem from="1533370178617" duration="4169000" />
+      <workItem from="1533441774976" duration="858000" />
+      <workItem from="1533511908337" duration="493000" />
+      <workItem from="1533532311144" duration="482000" />
+      <workItem from="1533554471192" duration="379000" />
+      <workItem from="1533605153218" duration="593000" />
+      <workItem from="1533646207158" duration="587000" />
+      <workItem from="1533689412348" duration="245000" />
+      <workItem from="1533714385224" duration="230000" />
+      <workItem from="1533776266147" duration="122000" />
+      <workItem from="1533801592353" duration="102000" />
+      <workItem from="1533878019038" duration="474000" />
+      <workItem from="1533966543311" duration="564000" />
+      <workItem from="1534077746359" duration="5185000" />
+      <workItem from="1534163129483" duration="1949000" />
+      <workItem from="1534216382590" duration="743000" />
+      <workItem from="1534314418788" duration="534000" />
+      <workItem from="1534410302670" duration="9000" />
+      <workItem from="1534431153545" duration="921000" />
+      <workItem from="1534490585478" duration="598000" />
+      <workItem from="1534503408683" duration="1718000" />
+      <workItem from="1534574648569" duration="272000" />
+      <workItem from="1534599449286" duration="758000" />
+      <workItem from="1534672114167" duration="5422000" />
+      <workItem from="1537357653587" duration="3383000" />
+      <workItem from="1537445965656" duration="1403000" />
+      <workItem from="1537536303907" duration="9000" />
+      <workItem from="1537536400570" duration="52000" />
+      <workItem from="1542277631529" duration="592000" />
+      <workItem from="1542279441424" duration="2852000" />
+      <workItem from="1542332230230" duration="599000" />
+      <workItem from="1542357960180" duration="70000" />
+      <workItem from="1543066428943" duration="18000" />
+      <workItem from="1553035325816" duration="1345000" />
+      <workItem from="1553114331250" duration="1646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265000" />
+    <option name="totallyTimeSpent" value="165762000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="642" y="116" width="1278" height="892" extended-state="0" />
+    <frame x="0" y="0" width="3360" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Json Parser" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="npm" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="RNConsole" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23733003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CSS-X-Fire" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.20677966" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32893157" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="RNConsole" order="9" weight="0.32955974" />
+      <window_info anchor="bottom" id="CSS-X-Fire" order="10" weight="0.32957393" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1431718" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3295838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Json Parser" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23733003" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.20677966" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32893157" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="RNConsole" order="9" weight="0.32955974" />
+      <window_info anchor="bottom" id="CSS-X-Fire" order="10" weight="0.32957393" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1431718" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3295838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Json Parser" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/component/chat/store/index.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/store/actionTypes.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/navlinkbar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="76" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/register/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src copy/pages/register/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src copy/pages/login/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src copy/pages/dashboard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/chat/store/actionTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/bossinfo/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="24" />
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/chat/style.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myReduxDemo/mini_redux_custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/register/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/globalStyle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="102" column="11" selection-start-line="102" selection-start-column="11" selection-end-line="102" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="89" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/dashboard/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/umd/react-router-dom.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26555" selection-start-column="26555" selection-end-column="26555" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/validateRoute/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/msg/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/register/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/personal/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/commonlist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/bossinfo/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/geniusinfo/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/iconfont/iconfont.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/bossinfo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/geniusinfo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/dashboard/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/chat/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/chat/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+            <marker date="1534677839367" expanded="true" signature="6994:7063" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/chat/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" selection-start-line="12" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2871">
+          <caret line="99" column="6" lean-forward="true" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-overrides.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="995">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="170" column="60" lean-forward="true" selection-start-line="170" selection-start-column="60" selection-end-line="170" selection-end-column="60" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

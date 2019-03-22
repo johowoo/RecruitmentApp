@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4d6ff8b-42bf-454f-9671-2928cabda576" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -78,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="133" column="22" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="22" />
+            <state relative-caret-position="1972">
+              <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -379,15 +380,15 @@
       <workItem from="1553161178976" duration="1117000" />
       <workItem from="1553162313929" duration="874000" />
       <workItem from="1553199897105" duration="2324000" />
-      <workItem from="1553225272222" duration="496000" />
+      <workItem from="1553225272222" duration="864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170573000" />
+    <option name="totallyTimeSpent" value="170941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="286" y="57" width="2413" height="1394" extended-state="0" />
+    <frame x="187" y="28" width="2413" height="1394" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17141642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -711,7 +712,7 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -738,8 +739,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="133" column="22" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="22" />
+        <state relative-caret-position="1972">
+          <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
         </state>
       </provider>
     </entry>

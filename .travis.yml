@@ -5,8 +5,8 @@ node_js:
 #  - npm i -g npm@6.4.1
 
 cache:
-#  yarn: false
-  npm: true
+  yarn: true
+#  npm: true
   directories:
     - node_modules
 

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4d6ff8b-42bf-454f-9671-2928cabda576" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,20 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="319">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+            <state relative-caret-position="516">
+              <caret line="133" column="22" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -88,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.nvm/versions/node/v11.1.0/lib/node_modules/yarn/lib/cli.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1837">
+            <state relative-caret-position="21895">
               <caret line="755" column="122" selection-start-line="755" selection-start-column="122" selection-end-line="755" selection-end-column="122" />
             </state>
           </provider>
@@ -106,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
+            <state relative-caret-position="580">
               <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
             </state>
           </provider>
@@ -123,7 +122,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>value</find>
       <find>d</find>
       <find>date</find>
       <find>return</find>
@@ -153,6 +151,7 @@
       <find>npm</find>
       <find>rc</find>
       <find>yarn</find>
+      <find>react-app-rewired</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -216,8 +215,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="286" />
-    <option name="y" value="57" />
+    <option name="x" value="187" />
+    <option name="y" value="28" />
     <option name="width" value="2413" />
     <option name="height" value="1394" />
   </component>
@@ -229,6 +228,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,7 +245,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,18 +378,18 @@
       <workItem from="1553114331250" duration="1646000" />
       <workItem from="1553161178976" duration="1117000" />
       <workItem from="1553162313929" duration="874000" />
-      <workItem from="1553199897105" duration="1925000" />
+      <workItem from="1553199897105" duration="2324000" />
+      <workItem from="1553225272222" duration="496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169678000" />
+    <option name="totallyTimeSpent" value="170573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="286" y="57" width="2413" height="1394" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16928966" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17141642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -470,28 +469,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src copy/pages/register/store/reducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src copy/pages/login/store/reducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src copy/pages/dashboard/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src copy/pages/register/store/reducer.js" />
+    <entry file="file://$PROJECT_DIR$/src copy/pages/login/store/reducer.js" />
+    <entry file="file://$PROJECT_DIR$/src copy/pages/dashboard/index.js" />
     <entry file="file://$PROJECT_DIR$/src/component/chat/store/actionTypes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -728,6 +708,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.nvm/versions/node/v11.1.0/lib/node_modules/yarn/lib/cli.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21895">
+          <caret line="755" column="122" selection-start-line="755" selection-start-column="122" selection-end-line="755" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/utils.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
@@ -737,29 +731,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
+        <state relative-caret-position="580">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.nvm/versions/node/v11.1.0/lib/node_modules/yarn/lib/cli.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1837">
-          <caret line="755" column="122" selection-start-line="755" selection-start-column="122" selection-end-line="755" selection-end-column="122" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="516">
+          <caret line="133" column="22" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="22" />
         </state>
       </provider>
     </entry>
